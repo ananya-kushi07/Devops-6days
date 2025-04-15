@@ -136,8 +136,8 @@ Ctrl + P + Q
 ## Docker Build & Push Example
 
 ```bash
-git clone -b master https://github.com/askashika/UniResult.git
-cd UniResult
+git clone -b master https://github.com/ananya-kushi07/Devops-6days.git
+cd Devops-6days
 
 docker build -t web-app-nodejs:1.0 .
 docker images
